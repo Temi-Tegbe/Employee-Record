@@ -1,0 +1,16 @@
+C:\Users\TemiloluwaTegbe\Desktop\Projects\SampleCompany\SampleCompany\bin\Debug\net5.0\SampleCompany.exe
+C:\Users\TemiloluwaTegbe\Desktop\Projects\SampleCompany\SampleCompany\bin\Debug\net5.0\SampleCompany.deps.json
+C:\Users\TemiloluwaTegbe\Desktop\Projects\SampleCompany\SampleCompany\bin\Debug\net5.0\SampleCompany.runtimeconfig.json
+C:\Users\TemiloluwaTegbe\Desktop\Projects\SampleCompany\SampleCompany\bin\Debug\net5.0\SampleCompany.runtimeconfig.dev.json
+C:\Users\TemiloluwaTegbe\Desktop\Projects\SampleCompany\SampleCompany\bin\Debug\net5.0\SampleCompany.dll
+C:\Users\TemiloluwaTegbe\Desktop\Projects\SampleCompany\SampleCompany\bin\Debug\net5.0\ref\SampleCompany.dll
+C:\Users\TemiloluwaTegbe\Desktop\Projects\SampleCompany\SampleCompany\bin\Debug\net5.0\SampleCompany.pdb
+C:\Users\TemiloluwaTegbe\Desktop\Projects\SampleCompany\SampleCompany\obj\Debug\net5.0\SampleCompany.csproj.AssemblyReference.cache
+C:\Users\TemiloluwaTegbe\Desktop\Projects\SampleCompany\SampleCompany\obj\Debug\net5.0\SampleCompany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TemiloluwaTegbe\Desktop\Projects\SampleCompany\SampleCompany\obj\Debug\net5.0\SampleCompany.AssemblyInfoInputs.cache
+C:\Users\TemiloluwaTegbe\Desktop\Projects\SampleCompany\SampleCompany\obj\Debug\net5.0\SampleCompany.AssemblyInfo.cs
+C:\Users\TemiloluwaTegbe\Desktop\Projects\SampleCompany\SampleCompany\obj\Debug\net5.0\SampleCompany.csproj.CoreCompileInputs.cache
+C:\Users\TemiloluwaTegbe\Desktop\Projects\SampleCompany\SampleCompany\obj\Debug\net5.0\SampleCompany.dll
+C:\Users\TemiloluwaTegbe\Desktop\Projects\SampleCompany\SampleCompany\obj\Debug\net5.0\ref\SampleCompany.dll
+C:\Users\TemiloluwaTegbe\Desktop\Projects\SampleCompany\SampleCompany\obj\Debug\net5.0\SampleCompany.pdb
+C:\Users\TemiloluwaTegbe\Desktop\Projects\SampleCompany\SampleCompany\obj\Debug\net5.0\SampleCompany.genruntimeconfig.cache
